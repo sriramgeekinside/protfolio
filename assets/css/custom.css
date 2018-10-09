@@ -1,0 +1,18 @@
+#skill_set_temp {
+    margin-top: 40%;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    width:100%;
+    position:absolute;
+}
+.right-align{
+    float: right;
+}
